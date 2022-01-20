@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aeda655a-c5e4-4490-af9b-243d1c34a942": {
+      "ProjectGuid": "aeda655a-c5e4-4490-af9b-243d1c34a942",
+      "DisplayName": "wfc_chat",
+      "ColorIndex": 0
+    },
+    "e6223c84-d406-4873-ad38-eadb9fdd370f": {
+      "ProjectGuid": "e6223c84-d406-4873-ad38-eadb9fdd370f",
+      "DisplayName": "ChatHost",
+      "ColorIndex": 1
+    },
+    "ac5e4d44-9502-4bcc-a191-a558e3bb4d95": {
+      "ProjectGuid": "ac5e4d44-9502-4bcc-a191-a558e3bb4d95",
+      "DisplayName": "ChatClient",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

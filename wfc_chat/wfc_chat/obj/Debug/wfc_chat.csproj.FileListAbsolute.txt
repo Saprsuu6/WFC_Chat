@@ -1,0 +1,7 @@
+C:\Users\coffe\source\repos\wfc_chat\wfc_chat\bin\Debug\wfc_chat.dll.config
+C:\Users\coffe\source\repos\wfc_chat\wfc_chat\bin\Debug\wfc_chat.dll
+C:\Users\coffe\source\repos\wfc_chat\wfc_chat\bin\Debug\wfc_chat.pdb
+C:\Users\coffe\source\repos\wfc_chat\wfc_chat\obj\Debug\wfc_chat.csproj.AssemblyReference.cache
+C:\Users\coffe\source\repos\wfc_chat\wfc_chat\obj\Debug\wfc_chat.csproj.CoreCompileInputs.cache
+C:\Users\coffe\source\repos\wfc_chat\wfc_chat\obj\Debug\wfc_chat.dll
+C:\Users\coffe\source\repos\wfc_chat\wfc_chat\obj\Debug\wfc_chat.pdb
